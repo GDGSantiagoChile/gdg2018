@@ -10,30 +10,30 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "GDG Santiago 2018"
+email: "gdgsantiago@gmail.com"
+description: "Google Developers Group Santiago Chile, hackatons, eventos, labs, charlas en todo Chile!"
+baseurl: "/gdg2018"
+url: "https://gdgsantiagochile.github.io/gdg2018/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "GDG Santiago"
+organizerAlternateName: "Google Developer Group Santiago Chile"
+organizerDescription: "Comunidad geek, abierta y voluntaria que crea exitantes proyectos y comparte la experiencia con pasión."
+organizerEmail: "max.mussuto@gmail.com"
+organizerLogo: "/img/seo/gdg_scl_2.png"
+organizerLink: "http://maxmussuto.com"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "eventos, gdg, devfest, google, programacion, android, chrome, developers, santiago"
+twitterAccount: "@gdg_scl"
+socialImageSrcGooglePlus: "/img/seo/sgdgscl-logo.png"
+socialImageSrcTwitter: "/img/seo/gdgscl-logo.png"
+socialImageSrcFacebook: "/img/seo/gdgscl-logo.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -56,10 +56,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "GDG Santiago <typeout>"
+eventDate: "2018-2019"
+typeoutTextValues: '"", "StudyJams", "Hackatons", "Meetups", "Chile"'
+typeoutFallback: "We Rock!!!"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -67,7 +67,7 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conferencias", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgsantiagochile@gmail.com", text: "gdgsantiagochile@gmail.com"}
  -
   title: "FAQ"
   links:
